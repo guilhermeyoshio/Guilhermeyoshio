@@ -2,7 +2,7 @@
 
 Seja bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e soluções criativas.
 
-Atualmente, desenvolvo projetos com foco em **Flutter**, **Firebase** e interfaces modernas. Busco sempre melhorar minhas habilidades técnicas e construir soluções úteis, simples e funcionais.
+Busco sempre melhorar minhas habilidades técnicas e construir soluções úteis, simples e funcionais.
 
 ---
 
